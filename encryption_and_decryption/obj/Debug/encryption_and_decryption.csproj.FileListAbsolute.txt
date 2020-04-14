@@ -1,0 +1,8 @@
+C:\ENCRYPT_AND_DECRYPT\encryption_and_decryption\bin\Debug\encryption_and_decryption.exe
+C:\ENCRYPT_AND_DECRYPT\encryption_and_decryption\bin\Debug\encryption_and_decryption.pdb
+C:\ENCRYPT_AND_DECRYPT\encryption_and_decryption\obj\Debug\ResolveAssemblyReference.cache
+C:\ENCRYPT_AND_DECRYPT\encryption_and_decryption\obj\Debug\encryption_and_decryption.Form1.resources
+C:\ENCRYPT_AND_DECRYPT\encryption_and_decryption\obj\Debug\encryption_and_decryption.Properties.Resources.resources
+C:\ENCRYPT_AND_DECRYPT\encryption_and_decryption\obj\Debug\encryption_and_decryption.csproj.GenerateResource.Cache
+C:\ENCRYPT_AND_DECRYPT\encryption_and_decryption\obj\Debug\encryption_and_decryption.exe
+C:\ENCRYPT_AND_DECRYPT\encryption_and_decryption\obj\Debug\encryption_and_decryption.pdb
